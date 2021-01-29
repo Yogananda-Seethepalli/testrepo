@@ -26,4 +26,4 @@ This is *ITALIC*
     df=pd.DataFrame({"one":[1,2,3]})
     df.head()
 # Display Image
-["IMAGE"]
+![alt github](download.jpg)
